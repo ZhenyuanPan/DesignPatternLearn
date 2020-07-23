@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "设计模式", "设计模式\设计模式.csproj", "{53162AD7-6E8C-4133-B301-6D5E93B014B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "策略模式", "策略模式\策略模式.csproj", "{583373FA-AE01-4A34-B87D-6DF13889BCA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装饰模式", "装饰模式\装饰模式.csproj", "{CEE8CF00-8C74-41A6-BD3C-19519FEF9C83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "访问权限修饰关键字", "访问权限修饰关键字\访问权限修饰关键字.csproj", "{BAA0649F-9289-473B-8C0E-38885784C297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "装扮模式_小菜扮靓", "装扮模式_小菜扮靓\装扮模式_小菜扮靓.csproj", "{E5D5774D-DC37-40E7-8479-F621ABDAA7A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式_送礼物", "代理模式\代理模式_送礼物.csproj", "{B366FE62-C0DE-46B0-8B52-54F3DE3DF243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "代理模式_GoF", "代理模式_GoF\代理模式_GoF.csproj", "{14E0E793-D127-4043-8DBC-373C29BA2A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53162AD7-6E8C-4133-B301-6D5E93B014B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53162AD7-6E8C-4133-B301-6D5E93B014B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53162AD7-6E8C-4133-B301-6D5E93B014B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53162AD7-6E8C-4133-B301-6D5E93B014B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583373FA-AE01-4A34-B87D-6DF13889BCA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583373FA-AE01-4A34-B87D-6DF13889BCA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583373FA-AE01-4A34-B87D-6DF13889BCA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583373FA-AE01-4A34-B87D-6DF13889BCA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE8CF00-8C74-41A6-BD3C-19519FEF9C83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE8CF00-8C74-41A6-BD3C-19519FEF9C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE8CF00-8C74-41A6-BD3C-19519FEF9C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE8CF00-8C74-41A6-BD3C-19519FEF9C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA0649F-9289-473B-8C0E-38885784C297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA0649F-9289-473B-8C0E-38885784C297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA0649F-9289-473B-8C0E-38885784C297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA0649F-9289-473B-8C0E-38885784C297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D5774D-DC37-40E7-8479-F621ABDAA7A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D5774D-DC37-40E7-8479-F621ABDAA7A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D5774D-DC37-40E7-8479-F621ABDAA7A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D5774D-DC37-40E7-8479-F621ABDAA7A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B366FE62-C0DE-46B0-8B52-54F3DE3DF243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B366FE62-C0DE-46B0-8B52-54F3DE3DF243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B366FE62-C0DE-46B0-8B52-54F3DE3DF243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B366FE62-C0DE-46B0-8B52-54F3DE3DF243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14E0E793-D127-4043-8DBC-373C29BA2A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14E0E793-D127-4043-8DBC-373C29BA2A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14E0E793-D127-4043-8DBC-373C29BA2A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14E0E793-D127-4043-8DBC-373C29BA2A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5F3A226-5FE2-44AC-9E5F-E3E46CDC2721}
+	EndGlobalSection
+EndGlobal
