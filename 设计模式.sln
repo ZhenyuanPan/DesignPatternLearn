@@ -25,17 +25,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "工厂方法模式_学雷�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Base关键字理解", "Base关键字理解\Base关键字理解.csproj", "{11D437BB-3FFA-4592-B6D4-98D025DC3979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式_发简历", "原型模式_发简历\原型模式_发简历.csproj", "{43754923-EFEC-45FF-977A-82DD4C96E175}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "原型模式_发简历", "原型模式_发简历\原型模式_发简历.csproj", "{43754923-EFEC-45FF-977A-82DD4C96E175}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "原型模式(加入深复制)_发简历", "原型模式(加入深复制)_发简历\原型模式(加入深复制)_发简历.csproj", "{04EE7A10-C1B4-4922-8600-09A79B3128FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "原型模式(加入深复制)_发简历", "原型模式(加入深复制)_发简历\原型模式(加入深复制)_发简历.csproj", "{04EE7A10-C1B4-4922-8600-09A79B3128FD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模板方法模式_抄题写答案", "模板方法模式_抄题写答案\模板方法模式_抄题写答案.csproj", "{1C9B22FE-9347-4EB1-97A7-5C145DEBD15B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "模板方法模式_抄题写答案", "模板方法模式_抄题写答案\模板方法模式_抄题写答案.csproj", "{1C9B22FE-9347-4EB1-97A7-5C145DEBD15B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "模板方法模式", "模板方法模式\模板方法模式.csproj", "{89A3EDC4-6BE6-44D1-A185-37BDA94BAE33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "模板方法模式", "模板方法模式\模板方法模式.csproj", "{89A3EDC4-6BE6-44D1-A185-37BDA94BAE33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "外观模式", "外观模式\外观模式.csproj", "{CC7E482B-8B10-4283-8233-4647C7B7475F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "外观模式", "外观模式\外观模式.csproj", "{CC7E482B-8B10-4283-8233-4647C7B7475F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "建造者模式", "建造者模式\建造者模式.csproj", "{C13B5F3F-3933-4EF6-BF6E-F9F42DC8C5D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "建造者模式", "建造者模式\建造者模式.csproj", "{C13B5F3F-3933-4EF6-BF6E-F9F42DC8C5D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "观察者模式_委托实现", "观察者模式_委托实现\观察者模式_委托实现.csproj", "{D3DC7752-6BDB-429A-A984-0D62B1D630CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "抽象工厂模式_利用反射规避switch语句实例化对象", "抽象工厂模式_利用反射规避switch语句实例化对象\抽象工厂模式_利用反射规避switch语句实例化对象.csproj", "{8488EB89-8C1C-4C84-9DA6-DBAFF26FA599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "状态模式_加班案例", "状态模式_加班案例\状态模式_加班案例.csproj", "{24493C64-8396-42CD-AEF0-931B95419440}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +117,18 @@ Global
 		{C13B5F3F-3933-4EF6-BF6E-F9F42DC8C5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13B5F3F-3933-4EF6-BF6E-F9F42DC8C5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13B5F3F-3933-4EF6-BF6E-F9F42DC8C5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DC7752-6BDB-429A-A984-0D62B1D630CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DC7752-6BDB-429A-A984-0D62B1D630CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DC7752-6BDB-429A-A984-0D62B1D630CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DC7752-6BDB-429A-A984-0D62B1D630CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8488EB89-8C1C-4C84-9DA6-DBAFF26FA599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8488EB89-8C1C-4C84-9DA6-DBAFF26FA599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8488EB89-8C1C-4C84-9DA6-DBAFF26FA599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8488EB89-8C1C-4C84-9DA6-DBAFF26FA599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24493C64-8396-42CD-AEF0-931B95419440}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24493C64-8396-42CD-AEF0-931B95419440}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24493C64-8396-42CD-AEF0-931B95419440}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24493C64-8396-42CD-AEF0-931B95419440}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

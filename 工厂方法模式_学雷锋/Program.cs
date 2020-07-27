@@ -45,6 +45,7 @@ namespace 工厂方法模式_学雷锋
             return new Undergraduate();
         }
     }
+
     //志愿者工厂
     class VolunteerFactory : IFactory 
     {
