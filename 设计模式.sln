@@ -57,23 +57,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "组合模式_公司管理�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迭代器模式", "迭代器模式\迭代器模式.csproj", "{75E08308-9717-41F9-A22E-8C9C97278B01}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "单例模式_饿汉懒汉单例", "单例模式_饿汉懒汉单例\单例模式_饿汉懒汉单例.csproj", "{3A99D41F-7361-4107-8383-916CE0257712}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "单例模式_饿汉懒汉单例", "单例模式_饿汉懒汉单例\单例模式_饿汉懒汉单例.csproj", "{3A99D41F-7361-4107-8383-916CE0257712}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "不要滥用继承_合成聚合复用原则", "不要滥用继承_合成聚合复用原则\不要滥用继承_合成聚合复用原则.csproj", "{10193D26-9A2A-4B79-A097-0A1FB7E11C63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "不要滥用继承_合成聚合复用原则", "不要滥用继承_合成聚合复用原则\不要滥用继承_合成聚合复用原则.csproj", "{10193D26-9A2A-4B79-A097-0A1FB7E11C63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "桥接模式", "桥接模式\桥接模式.csproj", "{4D9564E5-5406-4293-AFDF-4154E22A8A96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "桥接模式", "桥接模式\桥接模式.csproj", "{4D9564E5-5406-4293-AFDF-4154E22A8A96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式", "命令模式\命令模式.csproj", "{AAFF674B-8ADC-4B58-9E5D-DD25868BE941}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "命令模式", "命令模式\命令模式.csproj", "{AAFF674B-8ADC-4B58-9E5D-DD25868BE941}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "命令模式_烧烤店内情景", "命令模式_烧烤店内情景\命令模式_烧烤店内情景.csproj", "{643E0571-C7CD-4CB3-990C-363C79BEF801}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "命令模式_烧烤店内情景", "命令模式_烧烤店内情景\命令模式_烧烤店内情景.csproj", "{643E0571-C7CD-4CB3-990C-363C79BEF801}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "责任链模式", "责任链模式\责任链模式.csproj", "{D9E38FA9-1650-467C-A31B-B112CD4D0B5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "责任链模式", "责任链模式\责任链模式.csproj", "{D9E38FA9-1650-467C-A31B-B112CD4D0B5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "责任链模式_加薪非要老总批", "责任链模式_加薪非要老总批\责任链模式_加薪非要老总批.csproj", "{631A038D-BEEF-40A1-9EC8-F344A221EFFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "责任链模式_加薪非要老总批", "责任链模式_加薪非要老总批\责任链模式_加薪非要老总批.csproj", "{631A038D-BEEF-40A1-9EC8-F344A221EFFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中介者模式_迪米特法则(最少知识原则)", "中介者模式_迪米特法则(最少知识原则)\中介者模式_迪米特法则(最少知识原则).csproj", "{0945E301-3E0F-4E80-924A-833FC46E2DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "中介者模式_迪米特法则(最少知识原则)", "中介者模式_迪米特法则(最少知识原则)\中介者模式_迪米特法则(最少知识原则).csproj", "{0945E301-3E0F-4E80-924A-833FC46E2DB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "中介者模式_联合国机构_安理会做中介", "中介者模式_联合国机构_安理会做中介\中介者模式_联合国机构_安理会做中介.csproj", "{A0AECCB4-178B-4F0F-BCB6-C77FE4D51456}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "中介者模式_联合国机构_安理会做中介", "中介者模式_联合国机构_安理会做中介\中介者模式_联合国机构_安理会做中介.csproj", "{A0AECCB4-178B-4F0F-BCB6-C77FE4D51456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "享元模式", "享元模式\享元模式.csproj", "{3C33AE4B-D7D8-406C-AF12-793DD0CCAD6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "享元模式_内部状态与外部状态", "享元模式_内部状态与外部状态\享元模式_内部状态与外部状态.csproj", "{35B15306-0D84-4FCF-B3B8-5F5DF10DDE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "解释器模式", "解释器模式\解释器模式.csproj", "{3B88AB04-1BBE-4979-B6E3-E44706DD3ACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "访问者模式_男人和女人", "访问者模式_男人和女人\访问者模式_男人和女人.csproj", "{BDBBBECC-73B4-49CF-9CFB-B1E82E7A215A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "访问者模式", "访问者模式\访问者模式.csproj", "{0710C052-59D4-450A-B135-475EC1753BBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +235,26 @@ Global
 		{A0AECCB4-178B-4F0F-BCB6-C77FE4D51456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0AECCB4-178B-4F0F-BCB6-C77FE4D51456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0AECCB4-178B-4F0F-BCB6-C77FE4D51456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C33AE4B-D7D8-406C-AF12-793DD0CCAD6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C33AE4B-D7D8-406C-AF12-793DD0CCAD6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C33AE4B-D7D8-406C-AF12-793DD0CCAD6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C33AE4B-D7D8-406C-AF12-793DD0CCAD6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35B15306-0D84-4FCF-B3B8-5F5DF10DDE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35B15306-0D84-4FCF-B3B8-5F5DF10DDE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35B15306-0D84-4FCF-B3B8-5F5DF10DDE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35B15306-0D84-4FCF-B3B8-5F5DF10DDE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B88AB04-1BBE-4979-B6E3-E44706DD3ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B88AB04-1BBE-4979-B6E3-E44706DD3ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B88AB04-1BBE-4979-B6E3-E44706DD3ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B88AB04-1BBE-4979-B6E3-E44706DD3ACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDBBBECC-73B4-49CF-9CFB-B1E82E7A215A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBBBECC-73B4-49CF-9CFB-B1E82E7A215A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBBBECC-73B4-49CF-9CFB-B1E82E7A215A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBBBECC-73B4-49CF-9CFB-B1E82E7A215A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0710C052-59D4-450A-B135-475EC1753BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0710C052-59D4-450A-B135-475EC1753BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0710C052-59D4-450A-B135-475EC1753BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0710C052-59D4-450A-B135-475EC1753BBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
